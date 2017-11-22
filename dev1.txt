@@ -2,3 +2,7 @@ dev1 new file
 
 
 This line is added by dev1 from developer1 branch.
+
+
+dev2 added this line.
+
